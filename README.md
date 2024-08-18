@@ -25,6 +25,7 @@ Project Objectives
 - Species Distribution: Analyze the distribution of species across different categories and their conservation statuses.
 - Observation Patterns: Examine how frequently species are observed in various national parks.
 - Conservation Insights: Identify any correlations between species' conservation status and their observed frequency in parks.
+- 
   
 Tools and Technologies
 - Python: The primary programming language used for the analysis.
